@@ -1,4 +1,4 @@
-package com.github.striczkof.capnpjetbrainsplugin
+package dev.alvinpeters.p.capnpeditor
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

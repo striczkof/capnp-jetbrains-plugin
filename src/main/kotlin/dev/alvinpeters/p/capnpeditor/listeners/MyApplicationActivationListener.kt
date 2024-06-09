@@ -1,4 +1,4 @@
-package com.github.striczkof.capnpjetbrainsplugin.listeners
+package dev.alvinpeters.p.capnpeditor.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

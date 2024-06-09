@@ -1,9 +1,9 @@
-package com.github.striczkof.capnpjetbrainsplugin.services
+package dev.alvinpeters.p.capnpeditor.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.striczkof.capnpjetbrainsplugin.MyBundle
+import dev.alvinpeters.p.capnpeditor.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {
